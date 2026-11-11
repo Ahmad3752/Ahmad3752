@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ahmad Ali Javed 👋
 
-<!--
-**Ahmad3752/Ahmad3752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science student at NUST (SEECS) · AI/ML builder · Islamabad, Pakistan**
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-117F71?style=for-the-badge)](https://ahmadjaved.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1768AC?style=for-the-badge)](https://www.linkedin.com/in/ahmad-ali-javed/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Animated illustration of a tabby cat typing at a laptop while a Python training run completes](./intro.gif)
+
+## 👨‍💻 About me
+
+- I train models in **PyTorch** and build apps with **Python**, **FastAPI**, and **LLMs**.
+- At **Systems Limited**, I built RAG pipelines that ran with locally hosted models.
+- I've co-authored two IEEE conference papers and a study on federated learning for computer vision.
+
+## 🛠️ Projects
+
+| Project | What I built |
+| --- | --- |
+| [DevLens](https://github.com/Ahmad3752/DevLens) | An AI app that extracts structured information from CVs and scores them across eight categories. |
+| [Technical GraphRAG Assistant](https://github.com/Ahmad3752/technical-graphrag-assistant) | A document Q&A app that combines Elasticsearch and Neo4j to return answers with source citations. |
+| [LLM Labs](https://github.com/Ahmad3752/LLM-LABS) | PyTorch experiments on training a Transformer from scratch, fine-tuning with LoRA, and measuring inference with and without KV caching. |
